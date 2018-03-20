@@ -1,0 +1,14 @@
+#		#
+# SETUP #
+#		#
+BrowserDriver=Chrome
+#Chrome | I.E | Firefox
+LocationOfDriver=C:\\driver\\
+EnvironmentIP=http://secure.smartbearsoftware.com/samples/TestComplete11/WebOrders/
+TimeOut=60
+#		 #
+# REPORT #
+#		 #
+LoggFile=C:\\driver\\Logs\\
+LogNetworkMode=Online
+# Online | Offline
