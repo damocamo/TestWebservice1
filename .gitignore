@@ -1,0 +1,30 @@
+#ignore thumbnails created by windows
+Thumbs.db
+
+#ignore maven build files
+target/
+
+#ignore test output
+#.settings/
+bin/
+consoleoutput.txt
+
+#ignore  automation output
+automation_data/
+
+#ignore properties file (and output)
+*.properties
+
+#ignore jrebel
+rebel.xml
+*.orig
+
+# IntelliJ #
+############
+*.iml
+*.ipr
+*.iws
+.idea
+WebTestApplication.iml
+*test.iml
+out/
