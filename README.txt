@@ -6,7 +6,7 @@ IntelliJ: https://plugins.jetbrains.com/plugin/7212-cucumber-for-java
 o	File -> Settings -> Plugins -> Install JetBrains plugin… -> Right-click ‘Cucumber for Java’ -> ‘Download and Install’.
 
 2.	IMPORTING THE PROJECT
-Import the project as a Maven project in Intellij
+Open the project as an Intellij Project
 
 4.	PROPERTIES FILE
 The properties.parameters file is created from the properties.template file at first launch.
